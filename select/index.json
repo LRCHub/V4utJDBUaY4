@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "like i need u",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-11T10:07:51.838795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "like i need u",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/01_like_i_need_u_keshi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like I Need U",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/02_Like_I_Need_U_keshi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like I Need U",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/03_Like_I_Need_U_keshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "like i need u",
+      "artist": "keshi - Topic",
+      "has_synced": true,
+      "path": "select/04_like_i_need_u_keshi_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Like I Need U",
+      "artist": "Wstdyth",
+      "has_synced": true,
+      "path": "select/05_Like_I_Need_U_Wstdyth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Look Like I Need a Drink",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/06_You_Look_Like_I_Need_a_Drink_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Look Like I Need A Drink",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/07_You_Look_Like_I_Need_A_Drink_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Look Like I Need a Drink",
+      "artist": "Against Me!",
+      "has_synced": true,
+      "path": "select/08_You_Look_Like_I_Need_a_Drink_Against_Me!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Look Like I Need a Drink / Turn Those Clapping Hands Into Angry Balled Fists",
+      "artist": "Against Me!",
+      "has_synced": false,
+      "path": "select/09_You_Look_Like_I_Need_a_Drink___Turn_Those_Clapping_Hands_Into_Angry_Balled_Fists_Against_Me!.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Make Me Feel Like I Need a Psychiatric Evaluation",
+      "artist": "A Wilhelm Scream",
+      "has_synced": true,
+      "path": "select/10_You_Make_Me_Feel_Like_I_Need_a_Psychiatric_Evaluation_A_Wilhelm_Scream.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Look Like I Need a Drink",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/11_You_Look_Like_I_Need_a_Drink_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Look Like I Need a Drink (Live)",
+      "artist": "Against Me!",
+      "has_synced": false,
+      "path": "select/12_You_Look_Like_I_Need_a_Drink_(Live)_Against_Me!.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LIKE, I NEED",
+      "artist": "CHAI",
+      "has_synced": true,
+      "path": "select/13_LIKE,_I_NEED_CHAI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Need You Like I Need This Hole in My Head",
+      "artist": "Sting",
+      "has_synced": false,
+      "path": "select/14_I_Need_You_Like_I_Need_This_Hole_in_My_Head_Sting.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Like I Need You",
+      "artist": "Culture Code, Elle Vee",
+      "has_synced": true,
+      "path": "select/15_Like_I_Need_You_Culture_Code,_Elle_Vee.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Like I Need You",
+      "artist": "Kan Wakan",
+      "has_synced": false,
+      "path": "select/16_Like_I_Need_You_Kan_Wakan.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Need You Like I Need To Breathe",
+      "artist": "Miyuki feat. glasscat",
+      "has_synced": true,
+      "path": "select/17_Need_You_Like_I_Need_To_Breathe_Miyuki_feat._glasscat.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Need You Like I Need To Breathe",
+      "artist": "Miyuki",
+      "has_synced": true,
+      "path": "select/18_Need_You_Like_I_Need_To_Breathe_Miyuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "like i need u",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_like_i_need_u_keshi.txt"
+    }
+  ]
+}
